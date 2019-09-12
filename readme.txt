@@ -19,5 +19,5 @@ Included plugins:
 3.  Mime Tool 2.5
 
 Updater (Installer only):
-
+change words
 * WinGup (for Notepad++) v5.1
