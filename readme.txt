@@ -20,4 +20,4 @@ Included plugins:
 
 Updater (Installer only):
 change words
-* WinGup (for Notepad++) v5.1
+* WinGup (for Notepad++) v5.
